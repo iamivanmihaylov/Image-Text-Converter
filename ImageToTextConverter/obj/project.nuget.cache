@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2hJW8IfjWj0R3Z4vcrRXuMCDSbRmTgzl9PxiaD7LlywUK4Qy+GeNKTDnpVy19AQ5YdZJNxSJaGg6arAOisbKg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Repositories\\My-Repositories\\ImageToTextConverter\\ImageToTextConverter\\ImageToTextConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan Mihaylov\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan Mihaylov\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

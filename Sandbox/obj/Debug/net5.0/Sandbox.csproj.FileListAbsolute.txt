@@ -1,0 +1,16 @@
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.exe
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.deps.json
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.runtimeconfig.json
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.runtimeconfig.dev.json
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.dll
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\ref\Sandbox.dll
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\bin\Debug\net5.0\Sandbox.pdb
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfoInputs.cache
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfo.cs
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.csproj.CoreCompileInputs.cache
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.dll
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.pdb
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.genruntimeconfig.cache
+D:\Programming\Repositories\ImageToTextConverter\Sandbox\obj\Debug\net5.0\Sandbox.csproj.AssemblyReference.cache
