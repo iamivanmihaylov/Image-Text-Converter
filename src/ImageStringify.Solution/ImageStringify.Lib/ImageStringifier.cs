@@ -1,18 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
+using System.Linq;
 using System.Text;
-using SixLabors.ImageSharp;
-using SixLabors.ImageSharp.PixelFormats;
-using SixLabors.ImageSharp.Processing;
+using System.Threading.Tasks;
 
-namespace StringImage.Lib
+namespace ImageStringify.Lib
 {
-    public class StringifiedImage
+    public class ImageStringifier
     {
+
         private string density;
         private string filePath;
-        public StringifiedImage(string filePath, string density = " .\":<|X0█")
+
+        public ImageStringifier(string filePath, string density = " .\":<|X0█")
         {
             this.density = density;
             this.filePath = filePath;
@@ -22,6 +22,7 @@ namespace StringImage.Lib
         {
             var image = Image.Load<Rgba32>(filePath);
             image.Mutate(x => x.Grayscale());
+            image.Mutate(x => x.Resize(image.Width / 2, image.Height / 2));
 
             var sb = new StringBuilder();
 
@@ -39,6 +40,5 @@ namespace StringImage.Lib
 
             return sb.ToString();
         }
-
     }
 }
